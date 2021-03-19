@@ -1,1 +1,2 @@
-# sp21-172-go-team
+# Team Project (Replace with your Team Name and Journal)
+
