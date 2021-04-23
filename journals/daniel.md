@@ -10,7 +10,7 @@ I assisted in the discussion on how we can divide tha major front-end and back-e
 
 On further discussion, we came to a conclusion that Taarush & I, would be working on putting up the back-end architecture, and Martin would coordinate the front-end development, and the entire team would help with the cloud deployment once the initial app is put together.
 
-#### Personal Accomplishments for Week (04/22):
+#### Personal Accomplishments for Week (4/16/21 - 4/21/21):
 
 - Referenced Lab 6 for starter code and further basic developments.
 - Referenced the Payment Integration Process and Order Processing Function development

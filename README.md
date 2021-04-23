@@ -40,7 +40,7 @@ Design and Development to be done by Taarush Vemulapalli and Saneel Daniel
 
 # Team Journal
 
-## Week 1 (Project Kickoff)
+## Week 1 (Project Kickoff) - (4/16/21 - 4/21/21)
 
 - The team had meetings to discuss the requirements and setup the initial layout.
 - We had discussion over responsibility division and task allocations.
