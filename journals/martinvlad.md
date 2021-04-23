@@ -1,4 +1,4 @@
-# CMPE 172 - Starbucks Project - Personal Journal - Martin Vladimirov
+# CMPE 172 : Personal Journal - Martin Vladimirov
 
 This is a weekly personal journal where I will post my weekly tasks, challenges, and accomplishments.
 
