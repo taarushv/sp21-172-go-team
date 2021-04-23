@@ -18,4 +18,4 @@ On further discussion, we came to a conclusion that Taarush & I, would be workin
 
 #### Taskboard Screenshot for week 1:
 
-![week1-taskboard](Images/week1-taskboard.png)
+![week1-taskboard](../Images/week1-taskboard.png)
