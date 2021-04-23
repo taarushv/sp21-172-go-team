@@ -21,3 +21,4 @@ Martin Vladimirov
  - Task1 : Begin building the boilerplate of the app. Build the template for home page, the template page that will be displaying all the drinks, and finally the checkout page.
 
  - Task2 : Style the page as needed. Add logos, animations, and various styles that are relevant to the Starbucks image.
+![week1-taskboard](../Images/week1-taskboard.png)
