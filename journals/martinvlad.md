@@ -4,13 +4,13 @@ This is a weekly personal journal where I will post my weekly tasks, challenges,
 
 Martin Vladimirov
 
-WEEK 1 (4/16/21 - 4/21/21)
+### WEEK 1 (4/16/21 - 4/21/21)
 
  - 4/16/21: Brainstorming and discussing project tasks to assign to each member.
 
  - 4/16/21: Distributing tasks between Daniel, Taarush, and myself. I will be working on the front end while Daniel and Taarush will deal with the backend.
 
-So far, I am currently in the process of building the cashier page on the front end as well as the customer page. 
+ - 4/18/21: So far, I am currently in the process of building the cashier page on the front end as well as the customer page. 
 
 **Challenges** 
 
