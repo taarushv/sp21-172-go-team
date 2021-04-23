@@ -1,3 +1,7 @@
+# CMPE 172 : Personal Journal - Martin Vladimirov
+
+This is a weekly personal journal where I will post my weekly tasks, challenges, and accomplishments.
+
 Martin Vladimirov
 
 WEEK 1 (4/16/21 - 4/21/21)
