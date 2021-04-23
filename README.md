@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+
 # CMPE 172 - Starbucks Project - Team Journal - Go Team
+
+=======
+
+# Team Project (Go Team)
+
+> > > > > > > cca99d40af9dbe592ec6e7349f470aed380a14da
 
 ## Introduction
 
