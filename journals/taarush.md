@@ -23,3 +23,26 @@ Personal Accomplishments for Week (04/22):
 Challenges
 * Making a schedule in a way that's sensitive of everyones availablility and our time deadlines for this project
 * Making a list of actionable tasks before we attend the class inorder to have my queries addressed. 
+
+
+### Week 2
+![week2-taskboard](../Images/week2-taskboard.png)
+
+Summary: 
+
+Last week we spent a lot of time grasping the scope of the project inorder to make a schedule/taskboard to help us submit our project on time. It ended with Daniel and me splitting the backend responsibilities while Martin agreed to work on our frontend needs. Based on our assigned tasks, I worked on setting up a Spring project with MySQL and REST API. 
+
+The progress of this can be followed on this [branch](https://github.com/nguyensjsu/sp21-172-go-team/tree/taarush/rest-api), with the plan being that we will all work individually until we can merge the entire project on the main branch (and setup docker/deploy scripts in the root folder)
+
+Personal Accomplishments for Week:
+* Started working on the REST API using the following spring project
+![init](../Images/rest-initializer.png)
+* Created a database schema to ensure the starbucks cards/orders can be integrated into MySQL
+* Created sample routes (based on our previous labs) and tested them using postman
+![postman](../Images/rest-post-api.png)
+* Worked with Daniel on how to divide the responsibilities on the backend (with him agreeing to work on the back office + cybersecure portion of the project)
+* Created Makefiles/Docker compose scripts to test parallel MySQL deployments required to boot up our application (setting up table + user credentials)
+
+Challenges
+* Debugging REST API setup + finding edge cases where the request fail (particularly when doing database inserts)
+* Co-ordinating with our teammates and working with our schedule to make sure everyone is on the same page + ensuring we're not working on the same features (to avoid redundant code/work) 
