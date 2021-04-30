@@ -46,3 +46,4 @@ Personal Accomplishments:
 
  - Integrating the front end with the Spring JPA framework correctly.
  - Making sure that the site is responsive on all devices.
+ - Ensuring that we all work on seperate features to avoid merge conflicts/errors.
