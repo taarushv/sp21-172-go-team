@@ -43,3 +43,4 @@ Personal Accomplishments:
 **Challenges**
 
  - Integrating the front end with the Spring JPA framework correctly.
+ - Making sure that the site is responsive on all devices.
