@@ -29,7 +29,7 @@ Martin Vladimirov
 
 Summary: 
 
-Last week our group spent the majority of time dealing with the scope of the project to make a taskboard to help us submit our project on time. We decided that I would be focusing thoroughly on the front end while Taarush and Daniel would be splitting the back-end work. Referencing the assigned tasks, I worked on setting up the front end for both the Cashier page layout and the BackOffice page layout. 
+Last week our group spent the majority of time dealing with the scope of the project to make a taskboard to keep us organized and on-track. We decided that I would be focusing thoroughly on the front end while Taarush and Daniel would be splitting the back-end work. Referencing the assigned tasks, I worked on setting up the front end for both the Cashier page layout and the BackOffice page layout. 
 
 My progress on this can be tracked on [branch](https://github.com/nguyensjsu/sp21-172-go-team/tree/martinvlad). We collectively agreed that we will all work seperately until we can merge the entire project on the main branch.
 
