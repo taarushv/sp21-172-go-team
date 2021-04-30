@@ -22,3 +22,9 @@ Martin Vladimirov
 
  - Task2 : Style the page as needed. Add logos, animations, and various styles that are relevant to the Starbucks image.
 ![week1-taskboard](../Images/week1-taskboard.png)
+
+
+### WEEK 2 (4/22/21-4/29/21)
+
+Completed the Cashier front end page layout. Working on customizing it with the Spring JPA framework shortly.
+<img width="800" alt="frontend" src="https://user-images.githubusercontent.com/36089262/116649259-c5afef80-a933-11eb-87c1-ad6cb5f88576.png">
