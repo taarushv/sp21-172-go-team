@@ -37,8 +37,8 @@ Personal Accomplishments:
  - Completed the Cashier front end page layout. Working on customizing it with the Spring JPA framework shortly.
 <img width="800" alt="frontend" src="https://user-images.githubusercontent.com/36089262/116649259-c5afef80-a933-11eb-87c1-ad6cb5f88576.png">
 <br>
- -Completed the BackOffice front end page layout. 
-<br>
+ - Completed the BackOffice front end page layout. 
+
  <img width="800" alt="backofficefrontend" src="https://user-images.githubusercontent.com/36089262/116653578-55f23280-a93c-11eb-8d6e-b0e31b0f024d.png">
 
 **Challenges**
