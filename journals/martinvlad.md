@@ -34,7 +34,7 @@ Last week our group spent the majority of time dealing with the scope of the pro
 My progress on this can be tracked on [branch](https://github.com/nguyensjsu/sp21-172-go-team/tree/martinvlad), with the idea being that we will all work seperately  until we can finally merge the entire project on the main branch at the very end.
 
 Personal Accomplishments: 
- - Completed the Cashier front end page layout. Working on customizing it with the Spring JPA framework shortly.
+ - Completed the Cashier front end page layout. Working on customizing it with the Spring framework shortly.
 <img width="800" alt="frontend" src="https://user-images.githubusercontent.com/36089262/116649259-c5afef80-a933-11eb-87c1-ad6cb5f88576.png">
 
  - Completed the BackOffice front end page layout. Will be editing this once Taarush/Daniel is done customizing the backend to make sure the routes hit correctly.
@@ -44,6 +44,6 @@ Personal Accomplishments:
 
 **Challenges**
 
- - Integrating the front end with the Spring JPA framework correctly.
+ - Integrating the front end with the Spring framework correctly.
  - Making sure that the site is responsive on all devices.
  - Ensuring that we all work on seperate features to avoid merge conflicts/errors.
