@@ -31,6 +31,7 @@ Summary:
 
 Last week our group spent the majority of time dealing with the scope of the project to make a taskboard to help us submit our project on time. We decided that I would be focusing thoroughly on the front end while Taarush and Daniel would be splitting the back-end work. Referencing the assigned tasks, I worked on setting up the front end for both the Cashier page layout and the Backoffice page layout. 
 
+Personal Accomplishments: 
  - Completed the Cashier front end page layout. Working on customizing it with the Spring JPA framework shortly.
 <img width="800" alt="frontend" src="https://user-images.githubusercontent.com/36089262/116649259-c5afef80-a933-11eb-87c1-ad6cb5f88576.png">
 
