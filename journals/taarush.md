@@ -46,3 +46,22 @@ Personal Accomplishments for Week:
 Challenges
 * Debugging REST API setup + finding edge cases where the request fail (particularly when doing database inserts)
 * Co-ordinating with our teammates and working with our schedule to make sure everyone is on the same page + ensuring we're not working on the same features (to avoid redundant code/work) 
+
+
+### Week 3
+![week3-taskboard](../Images/week3-taskboard.png)
+
+Summary: 
+As mentioned last week, we all divided the different tasks and started working on them on our respective branches (my [branch](https://github.com/nguyensjsu/sp21-172-go-team/tree/taarush/rest-api)). Created an additional branch for front-end + back-end integration (not pushed yet, a few more bugs to fix). 
+
+Personal Accomplishments for Week:
+* Forking Martin's front-end branch in order to test the API requests (including DB inserts, for cards and orders) from the client side using `axios` instead of postman. While there were issues pertaining to 
+
+* Setup an AWS container repository and container service task (including configuring open ports for both front-end (2x) and back-end) for our final deployment
+
+* Fixed bugs when it comes to exceptions and edge cases (when it comes to card/order CRUD)
+
+Challenges: 
+* The biggest challenge this week was me and my teammates having trouble co-ordinating a time for end to end integration (and not just working on our individual contributions). Given the deadline rapidly approaching we hoped to meet and integrate all our working branches, but due to deadlines in other classes we couldn't find a time that worked best for all of us. We are mitigating this by meeting tomorrow (Friday, May 7th) to make more progress on complete integration
+
+* My local openjdk enviroment broke which prevented me from working on the project locally, after working on various fixes, that didn't work out, I ended up using a cloud IDE enviroment (gitpod) in order to start in a clean setup, which helped me continue working on the project
