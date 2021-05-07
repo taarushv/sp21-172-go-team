@@ -49,7 +49,7 @@ Personal Accomplishments:
  - Ensuring that we all work on seperate features to avoid merge conflicts/errors.
 
 ### WEEK 3 (4/29/21-5/04/21)
-![week2-taskboard](../Images/week2-taskboard.png)
+![week3-taskboard](../Images/week3-taskboard.png)
 
 Summary:
 
