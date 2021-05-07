@@ -47,3 +47,20 @@ Personal Accomplishments:
  - Integrating the front end with the Spring framework correctly.
  - Making sure that the site is responsive on all devices.
  - Ensuring that we all work on seperate features to avoid merge conflicts/errors.
+
+### WEEK 3 (4/29/21-5/04/21)
+![week2-taskboard](../Images/week2-taskboard.png)
+
+Summary:
+
+Personal Accomplishments:
+
+ - Completed the front end User Interface for all the different components, including the Cashier Page, BackOffice Page, Drinks Layout Page, and Payments Page.
+ - Added more styling to the components to make it more appealing to users.
+ - Sent over the frontend code to Taarush so he can integrate it with the backend.
+
+**Challenges**
+
+ - Finding sufficient time to meet with the rest of the team members
+ - Dealing with merge requests
+
