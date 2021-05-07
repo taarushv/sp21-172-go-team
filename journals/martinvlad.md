@@ -53,6 +53,8 @@ Personal Accomplishments:
 
 Summary:
 
+Since last week, I proceeded to add all the necessary components on the front-end for our application. From there, I sent over what I had to Taarush and Daniel and they helped to configure it with the backend.
+
 Personal Accomplishments:
 
  - Completed the front end User Interface for all the different components, including the Cashier Page, BackOffice Page, Drinks Layout Page, and Payments Page.
