@@ -15,7 +15,7 @@ export default class NavBarHome extends Component {
                 <>
  
   <Navbar bg="light" variant="light">
-    <Navbar.Brand href="#home">
+    <Navbar.Brand href="/">
       <img
         alt=""
         src={starbucksmainlogo}
