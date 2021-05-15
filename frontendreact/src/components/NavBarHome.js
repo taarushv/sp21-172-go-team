@@ -1,7 +1,12 @@
 import React, { Component } from 'react'
 import {Navbar, Nav, Button, Form, FormControl, NavDropdown} from 'react-bootstrap';
 import starbucksmainlogo from '../components/starbucksmainlogo.png';
-
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link
+  } from "react-router-dom";
 export default class NavBarHome extends Component {
     constructor(props){
         super(props);
@@ -27,9 +32,9 @@ export default class NavBarHome extends Component {
     </Navbar.Brand>
     <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="#menu">Menu</Nav.Link>
-      <Nav.Link href="#rewards">Rewards</Nav.Link>
-      <Nav.Link href="#giftcards">Gift Cards</Nav.Link>
+      <Nav.Link><Link to="/home">Home</Link></Nav.Link>
+      <Nav.Link ><Link to="/payment">Payment</Link></Nav.Link>
+      <Nav.Link ><Link to="/">Cashier</Link></Nav.Link>
      
     </Nav>
     <Form inline>
