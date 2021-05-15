@@ -8,7 +8,7 @@ export default class BackOffice extends Component {
             <div>
          <NavBarHome/>
          <div className="first"> 
-             <h3 style={{textAlign: "center"}}> We require facial coverings in all stores to protect the health of our customers and partners(employees), and help stop the spread of COVID-19. <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/need-to-know.html">Learn more.</a></h3>    
+             <h3 style={{textAlign: "center", margin: "40px"}}> We require facial coverings in all stores to protect the health of our customers and partners(employees), and help stop the spread of COVID-19. <a href="https://www.cdc.gov/coronavirus/2019-ncov/your-health/need-to-know.html">Learn more.</a></h3>    
          </div>
          <br></br>
          <div className="second" >
