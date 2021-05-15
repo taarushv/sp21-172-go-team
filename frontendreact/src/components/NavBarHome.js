@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import {Navbar, Nav, Button, Form, FormControl, NavDropdown} from 'react-bootstrap';
 import starbucksmainlogo from '../components/starbucksmainlogo.png';
+
 export default class NavBarHome extends Component {
     constructor(props){
         super(props);
