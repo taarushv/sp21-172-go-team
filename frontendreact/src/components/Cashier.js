@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import '../components/Cashier.css';
 import{ Button} from 'react-bootstrap';
 import starbuckslogo from '../components/starbuckslogo.jpeg';
+import axios from 'axios';
 
 
 export default class Cashier extends Component {
@@ -10,6 +11,21 @@ constructor(props){
     this.state = {
         stores: ''
     }
+}
+
+async componentDidMount(){
+    axios.get('https://2ed31c167d0e.ngrok.io/api/all')
+    .then(function (response) {
+      // handle success
+      console.log(response.data[0]);
+    })
+    .catch(function (error) {
+      // handle error
+      console.log(error);
+    })
+    .then(function () {
+      // always executed
+    });
 }
     render()
      {

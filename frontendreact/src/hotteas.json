@@ -1,0 +1,36 @@
+{
+    "products": [
+        {
+          "_id": "hottea1",
+          "type:":"hotteas",
+          "image": "/hotteas/chaitea.webp",
+          "title": "Chai Tea",
+          "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+          "price": 5.49
+        },
+        {
+            "_id": "hottea2",
+            "type:":"hotteas",
+            "image": "/hotteas/chaitealatte.webp",
+            "title": "Chai Tea Latte",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price": 5.49
+          },
+          {
+            "_id": "hottea3",
+            "type:":"hotteas",
+            "image": "/hotteas/matchatea.webp",
+            "title": "Matcha Tea Latte",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price": 5.49
+          },
+          {
+            "_id": "hottea4",
+            "type:":"hotteas",
+            "image": "/hotteas/honeycitrus.webp",
+            "title": "Honey Citrus Mint Tea Latte",
+            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "price": 5.49
+          }
+      ]
+  }

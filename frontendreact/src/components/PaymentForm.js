@@ -2,6 +2,7 @@ import React from 'react';
 import Cards from 'react-credit-cards';
 import {Button} from 'react-bootstrap';
 import { withRouter } from 'react-router-dom';
+import NavBarHome from './NavBarHome';
 class PaymentForm extends React.Component {
   state = {
     cvc: '',
@@ -29,6 +30,7 @@ class PaymentForm extends React.Component {
     return (
       
       <div id="PaymentForm">
+        <NavBarHome/>
         <h3>Please Enter A Debit or Credit Card</h3>
         <Cards
           cvc={this.state.cvc}

@@ -1,0 +1,36 @@
+{
+    "products": [
+      {
+        "_id": "coldcoffee",
+        "type:":"coldcoffee",
+        "image": "/coldcoffee/coldbrew.webp",
+        "title": "Cold Brew",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 5.49
+      },
+      {
+        "_id": "coldcoffee2",
+        "type:":"coldcoffee",
+        "image": "/coldcoffee/coldcoffee.webp",
+        "title": "Honey Almondmilk Cold Brew",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 5.49
+      },
+      {
+        "_id": "coldcoffee3",
+        "type:":"coldcoffee",
+        "image": "/coldcoffee/salted.webp",
+        "title": "Salted Caramel Cream Cold Brew",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 5.49
+      },
+      {
+        "_id": "coldcoffee4",
+        "type:":"coldcoffee",
+        "image": "/coldcoffee/vanillasweet.webp",
+        "title": "Vanilla Sweet Cream Cold Brew",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 5.49
+      }
+    ]
+  }

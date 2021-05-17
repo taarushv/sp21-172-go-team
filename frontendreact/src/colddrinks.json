@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "_id": "colddrink",
+        "type:":"colddrinks",
+        "image": "/colddrinks/icepineapple.jpeg",
+        "title": "Ice Pineapple Matcha",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 5.49
+      },
+      {
+        "_id": "colddrink2",
+        "type:":"colddrinks",
+        "image": "/colddrinks/iceguava.webp",
+        "title": "Ice Guava Passionfruit",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 6.49
+      }
+    ]
+  }
