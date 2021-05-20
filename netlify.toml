@@ -1,2 +1,3 @@
 [build]   
   base = "final-frontend"
+  command = “CI= npm run build”
